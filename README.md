@@ -5,8 +5,7 @@ Esta aplicación web permite realizar un CRUD/ABM de movimientos de ingresos/egr
 
 ## Captura de cómo se debería ver la app
 
-![Web app Screenshot]
-https://github.com/alejozavala/CRUD-Mov/blob/master/screenshot.jpeg?raw=true
+![Web app screenshot](https://raw.githubusercontent.com/alejozavala/CRUD-Mov/master/screenshot.jpeg)
 
 
 ## Construido con 🛠️
