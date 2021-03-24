@@ -2,7 +2,7 @@
 
 This web application allows to CRUD credit/debit movements and visualize the net balance 
 
-##Usage
+## Usage
 1. Clone this repository
 2. Open index.html
 
