@@ -1,14 +1,17 @@
 # Web App - CRUD Movimientos
 
-Esta aplicación web permite realizar un CRUD/ABM de movimientos de ingresos/egresos sobre un saldo total.
+This web application allows to CRUD credit/debit movements and visualize the net balance 
 
+##Usage
+1. Clone this repository
+2. Open index.html
 
-## Captura de cómo se debería ver la app
+## Screenshot 
 
 ![Web app screenshot](https://raw.githubusercontent.com/alejozavala/CRUD-Mov/master/screenshot.jpeg)
 
 
-## Construido con 🛠️
+## Built with 🛠️
 
 *HTML5 <br />
 *CSS3 <br />
